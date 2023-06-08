@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 30px;
+}
+
+p.show {
+    font-size: 30px;
+    white-space: pre;
+}
+p.begin {
+    font-size: 30px;
+    white-space: pre;
+}
+p.end {
+    font-size: 30px;
+    white-space: pre;
+}
+p.first {
+    font-size: 30px;
+    white-space: pre;
+}
+p.done {
+    font-size: 30px;
+    white-space: pre;
+}
+
+#health {
+    top: 2%;
+    left: 2%;
+    font-size: 30px;
+    position: absolute;
+    background-color: 0xfdb813;
+}
+#fuel {
+    top: 6%;
+    left: 2%;
+    font-size: 30px;
+    position: absolute;
+    background-color: 0xfdb813;
+}
+#score {
+    top: 10%;
+    left: 2%;
+    font-size: 30px;
+    position: absolute;
+    background-color: 0xfdb813;
+}
+#time {
+    top: 14%;
+    left: 2%;
+    font-size: 30px;
+    position: absolute;
+    background-color: 0xfdb813;
+}
+#can {
+    top: 18%;
+    left: 2%;
+    font-size: 30px;
+    position: absolute;
+    background-color: 0xfdb813;
+}
